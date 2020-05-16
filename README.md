@@ -52,9 +52,9 @@ The game was developed by 4 students:
 
 Moustafa Tohamy @https://github.com/tohamybasha
 
-Zeyad Ezzat 
+Zeyad Ezzat @ https://github.com/zeyad3ezzat
 
-Mariem Adel
+Mariem Adel @ https://github.com/mariemadel
 
-Arwa Mohamed
+Arwa Mohamed @ https://github.com/Arwa1997
 
