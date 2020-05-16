@@ -50,6 +50,10 @@ AI Agents:
 # Credits
 The game was developed by 4 students:
 Moustafa Tohamy @https://github.com/tohamybasha
+
 Zeyad Ezzat 
+
 Mariem Adel
+
 Arwa Mohamed
+
