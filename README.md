@@ -1,5 +1,5 @@
 # RISK-Game-Player-vs-AI-Agent
-The famous RISK game applied on Egypt map and played against AI agents with several search algorithms.
+The famous RISK game applied on Egypt and USA maps and played against AI agents with several search algorithms.
 
 # GUI 
 Developed using JavaFX.
